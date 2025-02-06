@@ -6,11 +6,12 @@ This repository contains files and documentation related to the HR Employee Dist
 
 
 # 📂 Files in This Repository
-HRanalysisSQL.sql: SQL queries used to analyze the HR data.
 
-HRemployeeReport.pdf: Overview and screenshots of the Power BI dashboard.
+[SQL queries](./HRanalysisSQL.sql) used to analyze the HR data.
 
-Human Resources.csv: Raw HR data used for the analysis and visualization.
+[Overview and screenshots of the Power BI dashboard](./HRemployeeReport.pdf).
+
+[Raw HR data](./HumanResources.csv) used for the analysis and visualization.
 
 
 # 📊 Dashboard Overview
@@ -27,7 +28,6 @@ Geographic Distribution: Ohio has the highest number of employees among all stat
 Demographics: The most common race among employees is White, followed by other races and ethnic groups. 
 
 
-.
 # 🛠️ Technologies Used
 SQL: Data analysis and query execution.
 
