@@ -37,7 +37,7 @@ CSV: Raw data format for analysis.
 
 
 # 🚀 Usage Instructions
-Clone the repository to your local machine: git clone https://github.com/vlovesdata/hr-employee-report.git
+Clone the repository to your local machine: ```git clone https://github.com/vlovesdata/hr-employee-report.git```
 
 Import the CSV data into your preferred database or analysis tool.
 
