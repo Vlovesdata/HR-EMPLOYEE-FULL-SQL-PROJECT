@@ -1,3 +1,5 @@
+![](https://github.com/Vlovesdata/HR-EMPLOYEE-FULL-SQL-PROJECT/blob/main/hrreport.png)
+
 # HR Employee Distribution Report Dashboard
 
 This repository contains files and documentation related to the HR Employee Distribution Report, which was developed and analyzed using SQL and visualized using Power BI. The analysis focuses on key metrics related to employee demographics, tenure, location preferences, and changes over time.
